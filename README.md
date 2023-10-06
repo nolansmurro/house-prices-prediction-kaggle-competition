@@ -17,7 +17,7 @@ Garage Crafters Inc., headquartered in Ames, Indiana, is a leading design firm s
 | SalePrice      | Integer | The property's sale price in dollars (target variable).|
 
 ## Executive Summary
-Garage Crafters Inc. embarked on a mission to provide expert garage renovation and construction services to homeowners in Ames, Indiana. The primary objectives of this project were to:
+Garage Crafters Inc. embarked on a focused mission to provide expert garage renovation and construction services to homeowners in Ames, Indiana. The primary objectives of this project were to:
 
 - Build a predictive model that suggested beneficial garage renovations based on the garage's intended use.
 - Evaluate the impact of different types of garage renovations on the estimated property value.
