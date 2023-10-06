@@ -37,7 +37,7 @@ Data was cleaned to handle missing values, outliers, and any necessary feature e
 Categorical variables were one-hot encoded. Data was split into training and testing sets for modeling. Scaling was applied to features as needed. Feature selection techniques were employed to improve model performance. Linear regression, among other models, were used to predict each coeffiecient's affect on sale price of the home.
 
 ### Evaluation and Interpretation
-Each model including the production model performed better than the baseline model represented by the mean of the training data by R_2 metrics. 
+All models performed better than the baseline model represented by the mean of the training data by R_2 metrics. The first 3 models (Model_1. Model_2, and Model_3 scored high with cross-val-score as well, indicating the models would perform well on unseen data. However, the production model had a low cross-val score indicating over-fitment. It is recommended that the production model be further engineered prior to public launch. Areas to explore include feature selection, hyper-parameter tuning, regularizaand a thorough investigation of the transformer and one-hot encoder code. 
 
 ### Business Recommendations
 Garage Crafters Inc. aimed to provide actionable recommendations for homeowners in Ames, Indiana, while efficiently targeting neighborhoods or property types that required their services. The project's findings were instrumental in making strategic decisions for the company's marketing efforts and resource allocation.
