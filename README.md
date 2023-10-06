@@ -16,6 +16,8 @@ Garage Crafters Inc., headquartered in Ames, Indiana, is a leading design firm s
 | Neighborhood   | String  | Physical locations within Ames city limits.           |
 | SalePrice      | Integer | The property's sale price in dollars (target variable).|
 
+Full Data dictionary: https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/data
+
 ## Executive Summary
 Garage Crafters Inc. embarked on a focused mission to provide expert garage renovation and construction services to homeowners in Ames, Indiana. The primary objectives of this project were to:
 
@@ -35,7 +37,7 @@ Data was cleaned to handle missing values, outliers, and any necessary feature e
 Categorical variables were one-hot encoded. Data was split into training and testing sets for modeling. Scaling was applied to features as needed. Feature selection techniques were employed to improve model performance. Linear regression, among other models, were used to predict each coeffiecient's affect on sale price of the home.
 
 ### Evaluation and Interpretation
-Model performance was evaluated using relevant metrics. The baseline score was established and compared to model results. The model's interpretability and insights into the factors affecting property values were discussed.
+Each model including the production model performed better than the baseline model represented by the mean of the training data by R_2 metrics. 
 
 ### Business Recommendations
 Garage Crafters Inc. aimed to provide actionable recommendations for homeowners in Ames, Indiana, while efficiently targeting neighborhoods or property types that required their services. The project's findings were instrumental in making strategic decisions for the company's marketing efforts and resource allocation.
