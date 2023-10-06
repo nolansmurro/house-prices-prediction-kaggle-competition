@@ -1,4 +1,4 @@
-# Ames Housing Project Suggestions
+ # Ames Housing Project Suggestions
 
 Data science is not a linear process. In this project, in particular, you will likely find that EDA, data cleaning, and exploratory visualizations will constantly feed back into each other. Here's an example:
 
