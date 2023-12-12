@@ -1,4 +1,6 @@
 # Garage Crafters Renovation and Targeted Construction
+*Note: "Garage Crafters Inc." is a fictional entity created for this project's narrative. It is used to contextualize the methodologies presented. This fictional company does not represent any real business, and similarities to any real entities are purely coincidental.*
+
 Garage Crafters Inc., headquartered in Ames, Iowa, is a leading design firm specializing in personalized garage renovation and construction services. The company's mission is to offer tailored garage improvement recommendations to homeowners in Ames, Iowa, aiming to enhance property value. Additionally, Garage Crafters aims to identify specific neighborhoods in Ames in which new garage construction contributes to a high impact on home sale price.
 
 ## Data Dictionary
